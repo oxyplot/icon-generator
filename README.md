@@ -2,4 +2,4 @@ Generates the OxyPlot icon with OxyPlot. Outputs the icons in various sizes to o
 
 #### Syntax
 
-IconGenerator.exe [output-folder]
+    IconGenerator.exe [output-folder]
